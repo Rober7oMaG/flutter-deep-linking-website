@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.robertomacias.miscellaneous_app",
+      "sha256_cert_fingerprints":
+      ["34:3A:20:94:9F:4E:66:87:06:A8:40:54:A1:A2:24:6D:6C:A9:0D:E5:4D:B1:58:42:51:A1:F9:61:09:03:B5:8F"]
+    }
+}]
+  
